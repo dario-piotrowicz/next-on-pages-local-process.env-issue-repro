@@ -1,5 +1,5 @@
 {
-  "name": "next-get-request-context-bug-repro",
+  "name": "next-on-pages-local-process.env-issue-repro",
   "version": "0.1.0",
   "private": true,
   "scripts": {

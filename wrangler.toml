@@ -52,6 +52,6 @@ compatibility_flags = ["nodejs_compat"]
 # new_classes = ["MyDurableObject"]
 
 # KV Example:
-# [[kv_namespaces]]
-# binding = "MY_KV"
-# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+[[kv_namespaces]]
+binding = "MY_KV"
+id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
